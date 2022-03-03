@@ -39,7 +39,3 @@ layout: default
   - 담당 내용
     - FI 자산관리 모듈 개발 및 커스터마이징
     - EAI 인터페이스 개발
-- 다나와 가상 IDE 개발
-  - 코드 서버(Code-Server)와 Traefik을 활용한 가상화 개발환경 개발
-- 파일 업로더 개발
-  - ssh와 react.js, node.js를 이용한 운영 페이지 파일 업로드 기능 추가
