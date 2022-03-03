@@ -1,5 +1,4 @@
-### Profile
-- 1993.01.15 
+### Profile 
 - Developer
 - Yangcheon-gu, Seoul
  
