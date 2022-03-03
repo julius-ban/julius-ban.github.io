@@ -16,7 +16,7 @@ layout: default
  * 국내 ERP 솔루션 기업
  * 재무/회계 모듈 개발
  * 더존 Web Application 개발
-2. danawa(2021.05 ~ )
+2. DANAWA(2021.05 ~ )
  * 가격비교 서비스
  * 검색 데브옵스 개발
  
