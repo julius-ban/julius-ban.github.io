@@ -1,7 +1,10 @@
 # BAN YUN SUNG
 
+### Profile
+- 1993.01.15 
 - Developer
-
+- Yangcheon-gu Seoul
+ 
 ### Experience
 1. Douzone (2019.07 ~ 2021.04)
  - 연구원
