@@ -4,6 +4,8 @@ layout: default
 
 "Programatic Programmer"
 
+* * *
+
 ## Profile
 1. Medical IT Eng. 전공
 2. Yangcheon-gu, Seoul
@@ -12,51 +14,22 @@ layout: default
 ## Experience
 1. Douzone(2019.07 ~ 2021.04)
  * 국내 ERP 솔루션 기업
- * 더존 Web Application 개발
  * 재무/회계 모듈 개발
+ * 더존 Web Application 개발
 2. danawa(2021.05 ~ )
- * 가격비교 서비스 기업
+ * 가격비교 서비스
  * 검색 데브옵스 개발
+ 
+## Skill Inventory
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
+| Skill        | Use Period        |
+|:-------------|:------------------|
+| Java         | 2 years           |
+| Javascript   | 2 years           |
+| SQL          | 1 years           |
+| ElasticSearch| 6 months          |
+| react.js     | 6 months          |
+| docker       | 10 months         |
 
 ### Here is an unordered list:
 
