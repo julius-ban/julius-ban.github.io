@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## julius-ban.github.io
 
 You can use the [editor on GitHub](https://github.com/julius-ban/julius-ban.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
