@@ -1,4 +1,9 @@
-## julius-ban.github.io
+## Carrer
+1. Douzone(2019.07 ~ 2021.04)
+ - SI
+ - 재무/회계 모듈 개발
+2. Danawa(2021.05 ~)
+ - 검색 엔진 Devops 개발
 
 You can use the [editor on GitHub](https://github.com/julius-ban/julius-ban.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
