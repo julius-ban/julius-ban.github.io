@@ -1,5 +1,7 @@
 ## BAN YUN SUNG
 
+- Developer
+
 ### Experience
 1. Douzone(2019.07 ~ 2021.04)
  - 연구원
