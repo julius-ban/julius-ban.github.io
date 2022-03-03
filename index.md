@@ -4,18 +4,18 @@ layout: default
 
 "Programatic Programmer"
 
-# Profile
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+## Profile
+1. Medical IT Eng. 전공
+2. Yangcheon-gu, Seoul
+3. 1993.01.15
 
 ## Experience
-
-1. Douzone
- * 2019.07 ~ 2021.04
+1. Douzone(2019.07 ~ 2021.04)
+ * 국내 ERP 솔루션 기업
  * 더존 Web Application 개발
  * 재무/회계 모듈 개발
-2. Danawa
- * 2021.05 ~ 2022.03
+2. danawa(2021.05 ~ )
+ * 가격비교 서비스 기업
  * 검색 데브옵스 개발
 
 ```js
