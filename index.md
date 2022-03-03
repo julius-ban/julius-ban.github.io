@@ -2,25 +2,19 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
+# Profile
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-## Header 2
+## Experience
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
+1. Douzone
+ * 2019.07 ~ 2021.04
+ * 더존 Web Application 개발
+ * 재무/회계 모듈 개발
+2. Danawa
+ * 2021.05 ~ 2022.03
+ * 검색 데브옵스 개발
 
 ```js
 // Javascript code with syntax highlighting.
